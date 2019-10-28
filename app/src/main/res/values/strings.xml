@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Cofig</string>
+    <string-array name="txtPalCampo">
+        <item>Pomelo</item>
+        <item>Patata</item>
+        <item>Rana</item>
+        <item>Mujeres</item>
+        <item>Helado</item>
+        <item>Pizarras</item>
+        <item>Dinero</item>
+        <item>El cosmos</item>
+        <item>Numero Pi</item>
+        <item>Vello facial</item>
+        <item>Silicio</item>
+    </string-array>
+    <string-array name="imagenes">
+        <item>q</item>
+        <item>w</item>
+        <item>q</item>
+        <item>w</item>
+        <item>q</item>
+        <item>w</item>
+        <item>q</item>
+        <item>w</item>
+        <item>q</item>
+        <item>w</item>
+        <item>q</item>
+    </string-array>
+</resources>
